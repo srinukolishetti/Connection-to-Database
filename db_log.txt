@@ -1,0 +1,20 @@
+[2025-11-12 13:52:39] Database connected successfully.
+[2025-11-12 13:52:39] Employee table created successfully.
+[2025-11-12 13:52:39] Old records and ID counter cleared successfully.
+[2025-11-12 13:52:39] Inserted employee: Srinu Naidu, Age: 22, Dept: HR
+[2025-11-12 13:52:39] Inserted employee: Ramesh, Age: 23, Dept: Finance
+[2025-11-12 13:52:39] Inserted employee: Ajay, Age: 22, Dept: Testing
+[2025-11-12 13:52:39] Fetched all employee records.
+[2025-11-12 13:52:39] Updated employee ID 2 with fields ['name = ?', 'age = ?', 'department = ?'].
+[2025-11-12 13:52:39] Fetched all employee records.
+[2025-11-12 13:52:39] Database connection closed.
+[2025-11-12 14:13:43] Database connected successfully.
+[2025-11-12 14:13:43] Employee table created successfully.
+[2025-11-12 14:13:43] Old records and ID counter cleared successfully.
+[2025-11-12 14:13:43] Inserted employee: Srinu Naidu, Age: 22, Dept: HR
+[2025-11-12 14:13:43] Inserted employee: Ramesh, Age: 23, Dept: Finance
+[2025-11-12 14:13:43] Inserted employee: Ajay, Age: 22, Dept: Testing
+[2025-11-12 14:13:43] Fetched all employee records.
+[2025-11-12 14:13:43] Updated employee ID 2 with fields ['name = ?', 'age = ?', 'department = ?'].
+[2025-11-12 14:13:43] Fetched all employee records.
+[2025-11-12 14:13:43] Database connection closed.
